@@ -1,4 +1,4 @@
-# Systèmes d'informatin et Bases de donnés
+# Systèmes d'information et Bases de donnés
 
 
 ## Le Programme
