@@ -42,4 +42,6 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 ### Note de cours
 
 ### Fiches TD
+- [Fiche TD 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025.pdf)
+
 
