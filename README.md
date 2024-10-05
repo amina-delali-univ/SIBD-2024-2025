@@ -40,8 +40,10 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 ## Notes de Cours et de TD
 
 ### Note de cours
+- [Cours 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Cours%201%20-%20Syst%C3%A8mes%20d'information%20-%20d%C3%A9finitions%20et%20concepts.pdf)
 
 ### Fiches TD
 - [Fiche TD 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025.pdf)
+- [Fiche TD 1 - Solutions](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025%20-%20Solution.pdf)
 
 
