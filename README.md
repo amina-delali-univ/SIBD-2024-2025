@@ -45,5 +45,8 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 ### Fiches TD
 - [Fiche TD 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025.pdf)
 - [Fiche TD 1 - Solutions](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025%20-%20Solution.pdf)
-
+- [Fiche TD 2](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%202.pdf)
+- [Fiche TD 2 - Solutions](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SI%20TD%202%20-%20Solutions.pdf)
+- [Fiche TD 3](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD3-2024-2025.pdf)
+- [Fiche TD 3 - Solutions - partie 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SI%20TD3%20-%20Solutions%20-%20partie%201.pdf)
 
