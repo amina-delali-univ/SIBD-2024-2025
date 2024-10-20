@@ -37,6 +37,12 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 
 - 🔗 Le lien du formulaire : https://forms.gle/7G8reEYHmuKDXpVr9
 
+## Questions
+- Si vous avez des questions, vous pouvez les posez ici:
+
+- 🔗 Le lien du formulaire questions: [Posez vos questions ici:](https://forms.gle/kXq4iPQ7cVimSDP7A)
+
+
 ## Notes de Cours et de TD
 
 ### Note de cours
