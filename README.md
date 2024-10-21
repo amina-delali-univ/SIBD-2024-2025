@@ -47,7 +47,9 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 
 ### Note de cours
 - [Cours 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Cours%201%20-%20Syst%C3%A8mes%20d'information%20-%20d%C3%A9finitions%20et%20concepts.pdf)
+- [cours-2](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Cours%202%20-%20Syst%C3%A8mes%20d'Information%20-%20Bases%20de%20donn%C3%A9es%2C%20R%C3%A9seau%2C%20Personnes-2024-2025.pdf)
 - [cours 3](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Cours%203%20-%20%20D%C3%A9veloppement%20Des%20Syst%C3%A8mes%20d'information.pdf)
+- [cours-4](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Course%204%20Mod%C3%A9lisation%20des%20bases%20de%20donn%C3%A9es-2024-2025.pdf)
 
 ### Fiches TD
 - [Fiche TD 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025.pdf)
