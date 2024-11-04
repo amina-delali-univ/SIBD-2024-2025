@@ -59,6 +59,7 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 - [Fiche TD 3](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD3-2024-2025.pdf)
 - [Fiche TD 3 - Solutions - partie 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SI%20TD3%20-%20Solutions%20-%20partie%201.pdf)
 - [Fiche TD 4](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%204%20-2024-2025.pdf)
+- [Fiche TD 5](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20-%20Fiche%20TD%205-%202024-2025.pdf)
 
 
 ## Tests Et Examens
