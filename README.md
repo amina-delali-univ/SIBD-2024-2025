@@ -11,6 +11,7 @@
 - Développement des bases de données : processus, dépendances fonctionnelles et normalisation 
 - Langage SQL: Partie 1 - SQL DDL  (Data Definition Language)
 - Langage SQL: Partie 2 - SQL DML (Data Manipulation Language)
+- Exemple de modélisation
 
 ## L'évaluation
 
@@ -54,6 +55,7 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 - [cours 6](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SIBD%20cours%206-2024-2025%20-D%C3%A9veloppement%20des%20bases%20de%20donn%C3%A9es%20-%20processus%2C%20d%C3%A9pendances%20fonctionnelles%20et%20normalisation.pdf)
 - [cours 7](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SIBD-%20Cours%207-2024-2025%20-%20SQL%20Partie%201.pdf)
 - [cours 8](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/out-SI%20Cours%208%20-%20SQL%20Partie%202.pdf)
+- [cours 9](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/out-%20Exemple%20de%20Mod%C3%A9lisation.pdf)
 
 ### Fiches TD
 - [Fiche TD 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%201%20-%202024-2025.pdf)
