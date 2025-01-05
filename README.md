@@ -80,16 +80,16 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 ### 2024-2025
 - [Test 1](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2024-2025%20(1).pdf)
 - [Test 1 Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Solution%20of%20ISBD%20-%20test1-2024-2025%20-%20-%20Google%20Docs.pdf)
-- [Test 2]([https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2024-2025%20(1).pdf](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/test2-2024-2025.pdf))
-- [Test 2 Solution]([https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Solution%20of%20ISBD%20-%20test1-2024-2025%20-%20-%20Google%20Docs.pdf](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/test2-2024-2025-Solutions.pdf))
+- [Test 2](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/test2-2024-2025.pdf)
+- [Test 2 Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/test2-2024-2025-Solutions.pdf)
 
 ### 2023-2024
 - [Test](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2023-2024.pdf)
 - [Test Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2023-2024%20solutions.pdf)
   
 - [Examen](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Examen-2023-2024.pdf)
-- [Examen Solution]([https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2023-2024%20solutions.pdf](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Examen-2023-2024-Solution.pdf))
+- [Examen Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Examen-2023-2024-Solution.pdf)
   
-- [Rattrapage]([https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2023-2024.pdf](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Rattrapage-2023-2024.pdf))
-- [Rattrapage Solution]([https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2023-2024%20solutions.pdf)](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Solution%20rattrapage%202023-2024.pdf)
+- [Rattrapage](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Rattrapage-2023-2024.pdf)
+- [Rattrapage Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Solution%20rattrapage%202023-2024.pdf)
 
