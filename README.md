@@ -82,6 +82,9 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 - [Test 1 Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Solution%20of%20ISBD%20-%20test1-2024-2025%20-%20-%20Google%20Docs.pdf)
 - [Test 2](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/test2-2024-2025.pdf)
 - [Test 2 Solution](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/test2-2024-2025-Solutions.pdf)
+  
+- [Examen](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Examen-2024-2025.pdf)
+- [Solution Examen](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/Examen-2024-2025-Solution.pdf)
 
 ### 2023-2024
 - [Test](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Sujets/ISBD%20-%20test1-2023-2024.pdf)
