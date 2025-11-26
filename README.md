@@ -53,7 +53,7 @@ Veuillez remplire ce formulaire, en clicquant sur le lien si dessous. Vous devre
 - [cours 4](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Course%204%20Mod%C3%A9lisation%20des%20bases%20de%20donn%C3%A9es-2024-2025.pdf)
 - [cours 5](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SIBD%20Cours%205%20-2024-2025-%20Mod%C3%A9lisation%20Entit%C3%A9%20Association.pdf)
 - [cours 6](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SIBD%20cours%206%20-D%C3%A9veloppement%20des%20bases%20de%20donn%C3%A9es%20-%20processus%2C%20d%C3%A9pendances%20fonctionnelles%20et%20normalisation.pdf)
-- [cours 7](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Cours%207%20-%20SQL%20Partie%201.pdf))
+- [cours 7](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/SI%20Cours%207%20-%20SQL%20Partie%201.pdf)
 - [cours 8](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/out-SI%20Cours%208%20-%20SQL%20Partie%202.pdf)
 - [cours 9](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/Cours/out-%20Exemple%20de%20Mod%C3%A9lisation.pdf)
 
